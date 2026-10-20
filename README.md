@@ -1,4 +1,4 @@
-# [name TBD]
+# CallSheet
 
 An open-source play-calling assistant for football coaches. A model trained
 on NFL play-by-play data ranks play options for the current game situation,
